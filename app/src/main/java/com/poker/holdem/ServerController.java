@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 
 import com.poker.holdem.constants.Constants;
-import com.poker.holdem.logic.MyThread;
 import com.poker.holdem.logic.player.Player;
 import com.poker.holdem.server.deserialization.MyDeserializer;
 import com.poker.holdem.server.deserialization.endgame.EndgameResp;
